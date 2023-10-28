@@ -15,7 +15,7 @@ Software tools: Excel, Canva, Figma, Colab, Jupyter
 Operating Systems: Windows 10/11
 Database: SQL, Xampp server
 
-<img height="32" width="32" src="https://cdn.simpleicons.org/[ICON SLUG]/[COLOR]/[DARK_MODE_COLOR]" />(https://github.com/mrunmayee9601)  
+(https://github.com/mrunmayee9601)  
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/mrunmayee-jakate-2a15711bb/)  
 
 
