@@ -11,10 +11,14 @@
 
 Programming Languages: Java, Python, Html, Css, Javascript 
 
-Web Frameworks: Django, Flask, React 
-Version Control: Git, Github 
+Web Frameworks: Django, Flask, React
+
+Version Control: Git, Github
+
 Software tools: Excel, Canva, Figma, Colab, Jupyter 
+
 Operating Systems: Windows 10/11 
+
 Database: SQL, Xampp server
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/mrunmayee9601)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/mrunmayee-jakate-2a15711bb/)  
