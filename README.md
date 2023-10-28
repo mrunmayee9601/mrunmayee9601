@@ -1,10 +1,11 @@
-### Hi there 👋
+### Hi Mrunmayee here 👋
 
 <!--
 **mrunmayee9601/mrunmayee9601** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
+🎓 Pursuing a Master's in Computer Science at Syracuse University, fueling my passion for technology and innovation.
+💻 Eager to explore the dynamic and ever-evolving landscape of the tech world.
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
