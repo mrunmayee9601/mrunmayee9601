@@ -1,5 +1,5 @@
 
-### Hello there, Mrunmayee here 👩‍💻🙋‍♀️
+# Hello there, Mrunmayee here 👩‍💻🙋‍♀️
 #### Passionate Learner and Innovator
 ![Passionate Learner and Innovator](https://www.syracuse.edu/assets/images/quad-cover-1100x407_07-29-202116-15-10.original.png)
 🎓 Pursuing a Master's in Computer Science at Syracuse University, fueling my passion for technology and innovation.                                                           
