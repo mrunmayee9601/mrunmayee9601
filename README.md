@@ -4,6 +4,6 @@
 🌱 An enthusiastic learner, excited to unravel new challenges and contribute to the tech community.                        
 📫 Let's connect on [LinkedIn](https://www.linkedin.com/in/mrunmayee-jakate-2a15711bb/) to share ideas and collaborate! 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mrunmayee9601&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mrunmayee9601&theme=neon&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
