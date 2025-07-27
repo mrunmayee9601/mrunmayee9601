@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Mrunmayee Jakate
 
-<img src="https://raw.githubusercontent.com/mrunmayee9601/mrunmayee9601/main/image1.jpg" width="100%" height="300" alt="Syracuse University" style="max-width: 80%; height: auto; border-radius: 8px;" />
+<img src="https://raw.githubusercontent.com/mrunmayee9601/mrunmayee9601/main/image1.jpg" width="100%" height="300" alt="Syracuse University" style="max-width: 80%; height: auto; border-radius: 5px;" />
 
 
 🎓 **M.S. in Computer Science** @ Syracuse University  
