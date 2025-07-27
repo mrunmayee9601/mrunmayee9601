@@ -52,17 +52,8 @@ I’m a curious and creative software engineer who enjoys turning messy data and
 
 ## 📈 GitHub Stats
 
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=mrunmayee9601&show_icons=true&theme=default" width="400"/>
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrunmayee9601&layout=compact&theme=default" width="400"/>
-    </td>
-  </tr>
-</table>
-
+<img src="https://github-readme-stats.vercel.app/api?username=mrunmayee9601&show_icons=true&theme=default" width="100%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrunmayee9601&layout=compact&theme=default" width="100%"/>
 
 ---
 
