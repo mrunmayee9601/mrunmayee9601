@@ -1,5 +1,8 @@
 # 👋 Hi, I'm Mrunmayee Jakate
 
+<img src="https://raw.githubusercontent.com/mrunmayee9601/mrunmayee9601/main/image1.jpg" width="250" alt="Syracuse University" />
+
+
 🎓 **M.S. in Computer Science** @ Syracuse University  
 💻 **Software Engineer | Full-Stack Developer | ML & Data Enthusiast**  
 🌐 [LinkedIn](https://www.linkedin.com/in/mrunmayee-jakate-2a15711bb/) • [GitHub Portfolio](https://github.com/mrunmayee9601) • 📬 mjakate@syr.edu
@@ -49,8 +52,17 @@ I’m a curious and creative software engineer who enjoys turning messy data and
 
 ## 📈 GitHub Stats
 
-![Mrunmayee's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mrunmayee9601&show_icons=true&theme=default)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrunmayee9601&layout=compact&theme=default)
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=mrunmayee9601&show_icons=true&theme=default" width="400"/>
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrunmayee9601&layout=compact&theme=default" width="400"/>
+    </td>
+  </tr>
+</table>
+
 
 ---
 
