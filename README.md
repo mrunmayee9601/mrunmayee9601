@@ -1,26 +1,65 @@
+# 👋 Hi, I'm Mrunmayee Jakate
 
-## Hello there, Mrunmayee here 👩‍💻🙋‍♀️
-#### Passionate Learner and Innovator
-![Passionate Learner and Innovator](https://www.syracuse.edu/assets/images/quad-cover-1100x407_07-29-202116-15-10.original.png)
-🎓 Pursuing a Master's in Computer Science at Syracuse University, fueling my passion for technology and innovation.                                                        
-🚀 Thriving on the possibilities that technology brings, I'm ready to contribute to its advancement.                                            
-🌱 An enthusiastic learner, excited to unravel new challenges and contribute to the tech community.                        
-📫 Let's connect on [LinkedIn](https://www.linkedin.com/in/mrunmayee-jakate-2a15711bb/) to share ideas and collaborate! 
+🎓 **M.S. in Computer Science** @ Syracuse University  
+💻 **Software Engineer | Full-Stack Developer | ML & Data Enthusiast**  
+🌐 [LinkedIn](https://www.linkedin.com/in/mrunmayee-jakate-2a15711bb/) • [GitHub Portfolio](https://github.com/mrunmayee9601) • 📬 mjakate@syr.edu
 
-⭐Skills:
-Programming Languages: Java, Python, Html, Css, Javascript
-Web Frameworks: Django, Flask, React
-Version Control: Git, Github
-Software tools: Excel, Canva, Figma, Colab, Jupyter
-Operating Systems: Windows 10/11
-Database: SQL, Xampp server
+---
 
+I'm a passionate software engineer with experience in building scalable, data-driven web applications and applied machine learning systems. I love transforming ideas into working products through clean code, collaboration, and continuous learning. 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/mrunmayee-jakate-2a15711bb/)  
+---
 
+## 🚀 Tech Stack
 
-[![Mrunmayee's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mrunmayee9601&theme=neon&show_icons=true&hide=rank)](https://github.com/anuraghazra/github-readme-stats)
+**Languages:** Python, Java, C++, JavaScript, SQL  
+**Frameworks & Libraries:** React, Flask, Django, Node.js, Express.js  
+**Databases:** PostgreSQL, MongoDB, MySQL  
+**Cloud & DevOps:** AWS (EC2, RDS, S3), GitHub Actions  
+**Tools:** Git, GitHub, Tableau, Power BI, Figma  
+**Other:** REST APIs, NLP (spaCy), Machine Learning (Scikit-learn, XGBoost, Pandas)
 
+---
 
+## 💼 Experience
 
+### 🔹 Data Science Intern @ MedKick (May–Aug 2024)
+- Automated healthcare analytics pipelines using Python & Google Sheets API
+- Designed and optimized PostgreSQL schemas for real-time data reporting
+- Built Tableau dashboards for clinical KPIs and trend analysis
 
+---
+
+## 📌 Featured Projects
+
+### 🔧 Smart Shuttle Scheduling Platform  
+*Full-stack ML-powered scheduling system for campus transit*  
+`React • Flask • PostgreSQL/PostGIS • AWS • Prophet/ARIMA`  
+[GitHub Repo](#) | Live Demo (coming soon)
+
+### 📄 Resume Parser Web App  
+*NLP-based tool for structured extraction from resumes*  
+`React • Express.js • spaCy • Scikit-learn`  
+[GitHub Repo](#)
+
+### ✈️ Flight Status Predictor  
+*Classifies flight delays using weather and airport data*  
+`Pandas • XGBoost • Scikit-learn`  
+[GitHub Repo](#)
+
+---
+
+## 📈 GitHub Stats
+
+![Mrunmayee's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mrunmayee9601&show_icons=true&theme=default)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrunmayee9601&layout=compact&theme=default)
+
+---
+
+## 🤝 Let's Connect
+
+Feel free to reach out or explore my work through the links above. I'm open to full-time opportunities in **Software Engineering**, **AI**, or **Data-related roles**!
+
+---
+
+_Thanks for visiting my profile!_ 🚀
