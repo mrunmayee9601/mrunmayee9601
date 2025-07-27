@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Mrunmayee Jakate
 
-<img src="https://raw.githubusercontent.com/mrunmayee9601/mrunmayee9601/main/image1.jpg" width="100%" height="300" alt="Syracuse University" style="display: block; margin: 0 auto; width: 90%; max-width: 900px; height: auto; border-radius: 12px; box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2); object-fit: cover;"/>
+<img src="https://raw.githubusercontent.com/mrunmayee9601/mrunmayee9601/main/image1.jpg" width="100%" height="300" alt="Syracuse University" style="display: block; margin: 0 auto; width: 60%; max-width: 900px; height: auto; border-radius: 12px; box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2); object-fit: cover;"/>
 
 
 🎓 **M.S. in Computer Science** @ Syracuse University  
