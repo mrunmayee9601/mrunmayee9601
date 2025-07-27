@@ -6,16 +6,15 @@
 
 ---
 
-I'm a passionate software engineer with experience in building scalable, data-driven web applications and applied machine learning systems. I love transforming ideas into working products through clean code, collaboration, and continuous learning. 
+I’m a curious and creative software engineer who enjoys turning messy data and bold ideas into clean, working code. Whether it’s designing full-stack systems, exploring machine learning, or tinkering in the cloud, I love solving real problems and learning something new every day.
 
 ---
 
 ## 🚀 Tech Stack
 
 **Languages:** Python, Java, C++, JavaScript, SQL  
-**Frameworks & Libraries:** React, Flask, Django, Node.js, Express.js  
-**Databases:** PostgreSQL, MongoDB, MySQL  
-**Cloud & DevOps:** AWS (EC2, RDS, S3), GitHub Actions  
+**Frameworks & Libraries:** React, Flask, Django, Express.js  
+**Databases:** PostgreSQL, MongoDB, MySQL   
 **Tools:** Git, GitHub, Tableau, Power BI, Figma  
 **Other:** REST APIs, NLP (spaCy), Machine Learning (Scikit-learn, XGBoost, Pandas)
 
@@ -32,20 +31,19 @@ I'm a passionate software engineer with experience in building scalable, data-dr
 
 ## 📌 Featured Projects
 
-### 🔧 Smart Shuttle Scheduling Platform  
-*Full-stack ML-powered scheduling system for campus transit*  
-`React • Flask • PostgreSQL/PostGIS • AWS • Prophet/ARIMA`  
-[GitHub Repo](#) | Live Demo (coming soon)
-
 ### 📄 Resume Parser Web App  
 *NLP-based tool for structured extraction from resumes*  
-`React • Express.js • spaCy • Scikit-learn`  
-[GitHub Repo](#)
+`React • spaCy • Scikit-learn`  
 
 ### ✈️ Flight Status Predictor  
 *Classifies flight delays using weather and airport data*  
 `Pandas • XGBoost • Scikit-learn`  
-[GitHub Repo](#)
+
+### 🗭 Career Guidance System  
+*ML-powered web app that recommends careers based on user inputs*  
+`Flask • HTML/CSS • SQL • scikit-learn`  
+[https://github.com/YashJoshi2109/Edukrishnaa_prod](#)
+
 
 ---
 
@@ -58,7 +56,7 @@ I'm a passionate software engineer with experience in building scalable, data-dr
 
 ## 🤝 Let's Connect
 
-Feel free to reach out or explore my work through the links above. I'm open to full-time opportunities in **Software Engineering**, **AI**, or **Data-related roles**!
+I'm always excited to connect, collaborate, or chat about new ideas. Currently seeking full-time roles where I can build impactful, data-driven software in **Software Engineering**, **AI**, or **Tech for Good** spaces!
 
 ---
 
