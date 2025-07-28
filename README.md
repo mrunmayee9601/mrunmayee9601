@@ -5,7 +5,7 @@
 
 🎓 **M.S. in Computer Science** @ Syracuse University  
 💻 **Software Engineer | Full-Stack Developer | ML & Data Enthusiast**  
-🌐 [LinkedIn](https://www.linkedin.com/in/mrunmayee-jakate-2a15711bb/) • [![GitHub Portfolio](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)](https://github.com/yourusername) • 📬 mjakate@syr.edu
+🌐 [LinkedIn](https://www.linkedin.com/in/mrunmayee-jakate-2a15711bb/) • 💻 [GitHub Portfolio](https://github.com/mrunmayee9601) • 📬 mjakate@syr.edu
 
 ---
 
