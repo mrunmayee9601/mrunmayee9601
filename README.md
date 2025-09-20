@@ -37,7 +37,7 @@ I’m a curious and creative software engineer who enjoys turning messy data and
 ### 🤖 Tiered Lightweight Gomoku AI
 *Hybrid tree-search AI for 15×15 Gomoku with tiered depth and heuristic evaluation*  
 `Python • NumPy • Minimax • Heuristic AI`  
-[https://github.com/mrunmayee9601/tiered-gomoku-ai](#)
+[GitHub Repository](https://github.com/mrunmayee9601/tiered-gomoku-ai)
 
 ### 📄 Resume Parser Web App  
 *NLP-based tool for structured extraction from resumes*  
@@ -50,7 +50,7 @@ I’m a curious and creative software engineer who enjoys turning messy data and
 ### 🗭 Career Guidance System  
 *ML-powered web app that recommends careers based on user inputs*  
 `Flask • HTML/CSS • SQL • scikit-learn`  
-[https://github.com/YashJoshi2109/Edukrishnaa_prod](#)
+[GitHub Repository](https://github.com/YashJoshi2109/Edukrishnaa_prod)
 
 
 ---
