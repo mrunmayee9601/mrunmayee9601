@@ -37,7 +37,7 @@ I’m a curious and creative software engineer who enjoys turning messy data and
 ### 🤖 Tiered Lightweight Gomoku AI
 *Hybrid tree-search AI for 15×15 Gomoku with tiered depth and heuristic evaluation*  
 `Python • NumPy • Minimax • Heuristic AI`  
-[https://github.com/mrunmayee9601/tiered-gomoku-ai]
+[https://github.com/mrunmayee9601/tiered-gomoku-ai](#)
 
 ### 📄 Resume Parser Web App  
 *NLP-based tool for structured extraction from resumes*  
